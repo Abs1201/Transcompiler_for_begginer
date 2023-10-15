@@ -1,0 +1,30 @@
+static int i = 0;
+public string name = "Hi";
+protected bool istrue = True;
+private char ox = 'O';
+
+
+int i = 0;
+if(i == 0)
+{
+    i = 1;
+}
+
+int j = 0;
+for(int i = 0; i < 10; int i = i + 1)
+{
+    if (i == 5)
+    {
+        j = j + i;
+    }
+}
+
+int i = 0;
+while(i < 10)
+{
+    i = i + 1;
+    if (i == 5)
+    {
+        j = j + 1;
+    }
+}
